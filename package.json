@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.5.3",
+    "nuxt-quasar-ui": "^2.1.3",
+    "sass": "^1.62.1"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.16.4",
+    "@wangeditor/editor": "^5.1.23",
+    "@wangeditor/editor-for-vue": "^5.1.12",
+    "quasar": "^2.12.0"
+  }
+}
